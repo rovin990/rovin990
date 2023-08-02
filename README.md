@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rovin SIngh
 - 👀 I’m interested in learning coding or new technology and more
-- 🌱 I’m currently learning JBPM
+- 🌱 I’m currently learning ReactJs / MongoDB / Rest-API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rovinsingh990@gmail.com
 
